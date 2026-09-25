@@ -1,4 +1,13 @@
 
+## Linguagens e tecnologias estudadas
+
+- C
+- Python
+- HTML
+- CSS
+- Git
+- GitHub
+
 # desafio-colaborativo-git 
 ## Tabela de redes sociais ou contatos
 
@@ -12,3 +21,4 @@
 - Aluno: Clarice Gabriela Vargas Antentezana - RGM 47973064
 - Aluno: Mateus Elias Oliveira de Paula Mussi - RGM 47973285
 - Aluno: Eric Neres Silva - RGM 47487259
+
