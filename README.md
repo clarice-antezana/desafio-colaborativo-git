@@ -1,3 +1,13 @@
+
+
+
+
+
+
+
+
+
+
 ## Linguagens e tecnologias estudadas
 
 - C
